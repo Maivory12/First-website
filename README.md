@@ -2,7 +2,7 @@
 First-Website
 
 ##Table of Contents
-[Description](#description)
+- [Description](#description)
 - [License](#license)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -31,3 +31,5 @@ N/a
 
 ##Questions
 For questions please contact Maivory12@icloud.com
+
+[Alt text](assets/images/img.jpg )
