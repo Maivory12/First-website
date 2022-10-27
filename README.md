@@ -32,4 +32,5 @@ N/a
 ##Questions
 For questions please contact Maivory12@icloud.com
 
-[Alt text](assets/images/img.jpg )
+##Mock-Up
+![Mock Up](./images/mock-up.png )
